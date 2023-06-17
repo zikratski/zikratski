@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zikratski
 - 👀 I’m interested in python, AI and machine learnig, also math and statistics
 - 🌱 I’m currently learning mathematical analysys and python language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zikratskianton@gmail.com or in telegram: https://t.me/literature_enjoyer
 
 <!---
